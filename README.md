@@ -29,16 +29,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 
    ```bash
    git clone https://github.com/your-username/background-color-changer.git
-
-### Project Structure
-  background-color-changer/
-├── public/
-├── src/
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── App.css
-│   └── index.css
-├── tailwind.config.js
-├── postcss.config.js
-├── package.json
-└── README.md
